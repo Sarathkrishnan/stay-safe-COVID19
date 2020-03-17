@@ -1,0 +1,5 @@
+muth-mosquito-bite.png	myth-gaelic.png        myth-rinsing-nose.png
+myth-alcohol.png	myth-hand-dryers.png   myth-thermal-scanners.png
+myth-antibiotic.png	myth-hotbath.png       myth-uvradiation.png
+myth-climates.png	myth-medicine.png      myth-vaccines.png
+myth-cold.png		myth-olderpeoples.png
